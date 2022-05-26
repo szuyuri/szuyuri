@@ -1,5 +1,5 @@
 - 👋🏽 Hi, my name is Yuri, I'm 19 years old and from Brazil;
-- 🧐 Interested in Back-end development;
-- 🌱 Currently relearning JavaScript/NodeJS;
-- 💜 Languages: Lua & JavaScript;
+- 🧐 Interested in fullstack development;
+- 🌱 Currently relearning JavaScript & NodeJS;
+- 💜 Lua, JavaScript, HTML & CSS;
 - ✨ I love learning new human languages.
