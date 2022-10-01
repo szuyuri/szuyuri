@@ -1,4 +1,4 @@
-- 👋🏽 Hi, my name is Yuri, I'm 19 years old and from Brazil;
+- 👋🏽 Hi, my name is Yuri, I'm 19 years old and from Brasil;
 - 🧐 Interested in fullstack development;
 - 🌱 Currently relearning web development basics(JS, CSS & HTML);
 - 💜 Lua, JavaScript, HTML & CSS;
